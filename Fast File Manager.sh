@@ -1,6 +1,4 @@
 #!/usr/bin/env bash
-#
-# fff - fucking fast file-manager.
 
 get_os() {
     # Figure out the current operating system to set some specific variables.
